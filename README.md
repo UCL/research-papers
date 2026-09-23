@@ -1,7 +1,6 @@
 # Research Publications
 
-A collection of our recent research publications relevant to SUMER project.
-
+A collection of our recent research publications relevant to the SUMER project.
 
 ## Publications
 
@@ -49,3 +48,11 @@ DOI: [10.1016/j.seppur.2025.132555](https://doi.org/10.1016/j.seppur.2025.132555
 *Reaction Chemistry & Engineering, 8, 3000–3017*
 
 DOI: [10.1039/d3re00156c](https://doi.org/10.1039/d3re00156c) · [View PDF](papers/Methane-kinetics.pdf)
+
+---
+
+## Software
+
+**[The FReSA plant propagation algorithm for optimization](https://www.homepages.ucl.ac.uk/~ucecesf/fresa.html)**
+
+A software implementation of the FReSA plant propagation algorithm for optimisation.
