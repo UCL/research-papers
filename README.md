@@ -1,6 +1,6 @@
 # Research Publications
 
-A collection of our recent research publications relevant to the SUMER project.
+A collection of our recent research publications relevant to the SUMER (Digitally Enabled **Su**stainable **Me**tals **R**ecycling for Circular Economies) project.
 
 ## Publications
 
