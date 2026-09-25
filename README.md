@@ -6,7 +6,7 @@ A collection of our recent research publications relevant to the SUMER (Digitall
 
 ### 2026
 
-**Autonomous characterisation of fouling-free feasible operating regions in continuous flow precipitation of ketoprofen nanoparticles**
+**Autonomous characterisation of fouling-free feasible operating regions in continuous flow precipitation of ketoprofen nanoparticles**  
 *Ishaa Mane, Arun Pankajakshan, Sayan Pal, Maximilian O. Besenhard, Asterios Gavriilidis, Federico Galvanin, Luca Mazzei*
 *Chemical Engineering Journal, 535, 175671*
 
