@@ -28,20 +28,20 @@ DOI: [10.69997/sct.121590](https://doi.org/10.69997/sct.121590) · [View PDF](pa
 
 ### 2025
 
-**MLAPI: A framework for developing machine learning-guided drug particle syntheses in automated continuous flow platforms**
-*Arun Pankajakshan, Sayan Pal, Nicholas Snead, Juan Almeida, Maximilian O. Besenhard, Shorooq Abukhamees, Duncan Q.M. Craig, Asterios Gavriilidis, Luca Mazzei, Federico Galvanin*
+**MLAPI: A framework for developing machine learning-guided drug particle syntheses in automated continuous flow platforms**  
+*Arun Pankajakshan, Sayan Pal, Nicholas Snead, Juan Almeida, Maximilian O. Besenhard, Shorooq Abukhamees, Duncan Q.M. Craig, Asterios Gavriilidis, Luca Mazzei, Federico Galvanin*  
 *Chemical Engineering Science, 302, 120780*
 
 DOI: [10.1016/j.ces.2024.120780](https://doi.org/10.1016/j.ces.2024.120780) · [View PDF](papers/MLAPI.pdf)
 
-**Intensified extraction of Nd from a Nd/Fe mixture in small channels for NdFeB magnet recycle**
-*Charlotte Pheasey, Panagiota Angeli*
+**Intensified extraction of Nd from a Nd/Fe mixture in small channels for NdFeB magnet recycle**  
+*Charlotte Pheasey, Panagiota Angeli*  
 *Chemical Engineering Science, 318, 122073*
 
 DOI: [10.1016/j.ces.2025.122073](https://doi.org/10.1016/j.ces.2025.122073) · [View PDF](papers/Nd-extraction.pdf)
 
-**Continuous intensified selective extraction of platinum group metals in small channels**
-*Yiota Victoria Phakoukaki, Paul O'Shaughnessy, Panagiota Angeli*
+**Continuous intensified selective extraction of platinum group metals in small channels**  
+*Yiota Victoria Phakoukaki, Paul O'Shaughnessy, Panagiota Angeli*  
 *Separation and Purification Technology, 364, 132555*
 
 DOI: [10.1016/j.seppur.2025.132555](https://doi.org/10.1016/j.seppur.2025.132555) · [View PDF](papers/PGM-extraction.pdf)
@@ -50,8 +50,8 @@ DOI: [10.1016/j.seppur.2025.132555](https://doi.org/10.1016/j.seppur.2025.132555
 
 ### 2023
 
-**Autonomous kinetic model identification using optimal experimental design and retrospective data analysis: methane complete oxidation as a case study**
-*Arun Pankajakshan, Solomon Gajere Bawa, Asterios Gavriilidis, Federico Galvanin*
+**Autonomous kinetic model identification using optimal experimental design and retrospective data analysis: methane complete oxidation as a case study**  
+*Arun Pankajakshan, Solomon Gajere Bawa, Asterios Gavriilidis, Federico Galvanin*  
 *Reaction Chemistry & Engineering, 8, 3000–3017*
 
 DOI: [10.1039/d3re00156c](https://doi.org/10.1039/d3re00156c) · [View PDF](papers/Methane-kinetics.pdf)
@@ -60,6 +60,6 @@ DOI: [10.1039/d3re00156c](https://doi.org/10.1039/d3re00156c) · [View PDF](pape
 
 ## Software
 
-**[The FReSA plant propagation algorithm for optimization](https://www.homepages.ucl.ac.uk/~ucecesf/fresa.html)**
+**[The FReSA plant propagation algorithm for optimization](https://www.homepages.ucl.ac.uk/~ucecesf/fresa.html)**  
 
 A software implementation of the FReSA plant propagation algorithm for optimisation.
