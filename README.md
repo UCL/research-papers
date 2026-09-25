@@ -7,19 +7,19 @@ A collection of our recent research publications relevant to the SUMER (Digitall
 ### 2026
 
 **Autonomous characterisation of fouling-free feasible operating regions in continuous flow precipitation of ketoprofen nanoparticles**  
-*Ishaa Mane, Arun Pankajakshan, Sayan Pal, Maximilian O. Besenhard, Asterios Gavriilidis, Federico Galvanin, Luca Mazzei*
+*Ishaa Mane, Arun Pankajakshan, Sayan Pal, Maximilian O. Besenhard, Asterios Gavriilidis, Federico Galvanin, Luca Mazzei*  
 *Chemical Engineering Journal, 535, 175671*
 
 DOI: [10.1016/j.cej.2026.175671](https://doi.org/10.1016/j.cej.2026.175671) · [View PDF](papers/Ketoprofen.pdf)
 
-**Hybrid Modelling of Segmented Flow Extraction Process for Digital Twin Development in Critical Metals Recovery**
-*Arun Pankajakshan, Konstantinos Katsoulas, Malik Olasinde, Cong Chao, Eric S. Fraga, Panagiota Angeli, Federico Galvanin*
+**Hybrid Modelling of Segmented Flow Extraction Process for Digital Twin Development in Critical Metals Recovery**  
+*Arun Pankajakshan, Konstantinos Katsoulas, Malik Olasinde, Cong Chao, Eric S. Fraga, Panagiota Angeli, Federico Galvanin*  
 *Systems and Control Transactions, 5, 108–116*
 
 DOI: [10.69997/sct.164877](https://doi.org/10.69997/sct.164877) · [View PDF](papers/Hybrid-extraction.pdf)
 
-**Intensified liquid-liquid process design for critical metals extraction from e-waste**
-*Konstantinos Katsoulas, Arun Pankajakshan, Malik Olasinde, Cong Chao, Federico Galvanin, Panagiota Angeli, Eric S. Fraga*
+**Intensified liquid-liquid process design for critical metals extraction from e-waste**  
+*Konstantinos Katsoulas, Arun Pankajakshan, Malik Olasinde, Cong Chao, Federico Galvanin, Panagiota Angeli, Eric S. Fraga*  
 *Systems and Control Transactions, 5, 2340–2348*
 
 DOI: [10.69997/sct.121590](https://doi.org/10.69997/sct.121590) · [View PDF](papers/E-waste-extraction.pdf)
